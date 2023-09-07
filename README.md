@@ -1,1 +1,1 @@
-Create To_Do List using HTML CSS and JavaScript
+Create a To_Do List using HTML CSS and JavaScript
